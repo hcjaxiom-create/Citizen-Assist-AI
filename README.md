@@ -69,7 +69,7 @@ Nome da equipe: Citizen Assist AI
 Integrante: Hugo Camisotti Junior - RM 570978
 
 ### 12. Vídeo de apresentação
-Link do YouTube: PREENCHER
+Link do YouTube : https://www.youtube.com/watch?v=Ih5QeV1bW0Y
 
 
 ### Organização e navegação entre assuntos
