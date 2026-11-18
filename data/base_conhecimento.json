@@ -1,0 +1,197 @@
+[
+    {
+        "id": "DOC001",
+        "tema": "Documentos pessoais",
+        "pergunta": "Como consultar a situação cadastral do meu CPF?",
+        "palavras_chave": [
+            "cpf",
+            "situação cadastral",
+            "consultar cpf"
+        ],
+        "orientacao": "Acesse a página oficial indicada na fonte e escolha 'Consultar Situação do CPF'. O serviço permite consultar a situação cadastral e emitir o comprovante.",
+        "fonte": "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+        "data_verificacao": "2026-11-18"
+    },
+    {
+        "id": "DOC002",
+        "tema": "Documentos pessoais",
+        "pergunta": "Como emitir o comprovante de inscrição no CPF?",
+        "palavras_chave": [
+            "cartão cpf",
+            "comprovante de inscrição",
+            "segunda via cpf"
+        ],
+        "orientacao": "Acesse o serviço 'Obter Cartão de CPF' da Receita Federal. Siga as opções de emissão para obter o comprovante de inscrição.",
+        "fonte": "https://www.gov.br/pt-br/servicos/obter-cartao-de-cpf",
+        "data_verificacao": "2026-11-18"
+    },
+    {
+        "id": "DOC003",
+        "tema": "Documentos pessoais",
+        "pergunta": "Como consultar a situação do meu título de eleitor?",
+        "palavras_chave": [
+            "título de eleitor",
+            "situação eleitoral",
+            "consultar título"
+        ],
+        "orientacao": "A partir da página da fonte, abra o Autoatendimento Eleitoral. Selecione 'Consultas' e depois 'Situação do título'.",
+        "fonte": "https://www.tse.jus.br/institucional/corregedoria-geral-eleitoral/sistemas-e-servicos-1/consulta-situacao-eleitoral",
+        "data_verificacao": "2026-11-18"
+    },
+    {
+        "id": "DOC004",
+        "tema": "Documentos pessoais",
+        "pergunta": "Como solicitar a Carteira de Identidade Nacional?",
+        "palavras_chave": [
+            "cin",
+            "carteira de identidade",
+            "novo rg"
+        ],
+        "orientacao": "A CIN é emitida pelos órgãos de identificação dos estados e do Distrito Federal. Consulte o órgão responsável para agendamento e confirmação dos documentos, incluindo a certidão de nascimento ou casamento.",
+        "fonte": "https://www.gov.br/governodigital/pt-br/identidade/cin/duvidas-frequentes-sobre-a-cin-campanha",
+        "data_verificacao": "2026-11-18"
+    },
+    {
+        "id": "DOC005",
+        "tema": "Documentos pessoais",
+        "pergunta": "Como solicitar um passaporte comum no Brasil?",
+        "palavras_chave": [
+            "passaporte",
+            "tirar passaporte",
+            "solicitar passaporte"
+        ],
+        "orientacao": "Confira a documentação na página da Polícia Federal. Preencha o formulário e pague a taxa. Após a confirmação do pagamento, agende o atendimento presencial e compareça com os documentos exigidos. Confira os requisitos atuais na fonte.",
+        "fonte": "https://www.gov.br/pt-br/servicos/obter-passaporte-comum-para-brasileiro",
+        "data_verificacao": "2026-11-18"
+    },
+    {
+        "id": "TRA001",
+        "tema": "Trabalho e emprego",
+        "pergunta": "Como acessar a Carteira de Trabalho Digital?",
+        "palavras_chave": [
+            "ctps",
+            "carteira de trabalho",
+            "carteira de trabalho digital"
+        ],
+        "orientacao": "Para acessar, é necessário ter CPF e uma conta gov.br. Use o aplicativo oficial Carteira de Trabalho Digital ou o acesso pela internet indicado na fonte.",
+        "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
+        "data_verificacao": "2026-11-18"
+    },
+    {
+        "id": "TRA002",
+        "tema": "Trabalho e emprego",
+        "pergunta": "Onde posso procurar vagas de emprego pelo SINE?",
+        "palavras_chave": [
+            "sine",
+            "vagas de emprego",
+            "procurar emprego"
+        ],
+        "orientacao": "Busque vagas pelo Portal Emprega Brasil, pelo aplicativo Carteira de Trabalho Digital ou em um posto do SINE. Mantenha seu cadastro e suas preferências profissionais atualizados nos canais oficiais.",
+        "fonte": "https://www.gov.br/pt-br/servicos/buscar-emprego-no-sistema-nacional-de-emprego-sine",
+        "data_verificacao": "2026-11-18"
+    },
+    {
+        "id": "TRA003",
+        "tema": "Trabalho e emprego",
+        "pergunta": "Como solicitar o seguro-desemprego do trabalhador formal?",
+        "palavras_chave": [
+            "seguro-desemprego",
+            "seguro desemprego",
+            "requerer seguro desemprego"
+        ],
+        "orientacao": "Consulte os requisitos na página oficial. A solicitação pode ser feita pelo portal indicado ou pelo aplicativo Carteira de Trabalho Digital. Tenha o requerimento do empregador e o CPF para usar no canal oficial.",
+        "fonte": "https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego",
+        "data_verificacao": "2026-11-18"
+    },
+    {
+        "id": "TRA004",
+        "tema": "Trabalho e emprego",
+        "pergunta": "Como consultar o abono salarial PIS/Pasep?",
+        "palavras_chave": [
+            "abono salarial",
+            "abono pis",
+            "abono pasep"
+        ],
+        "orientacao": "Consulte as informações do abono salarial na Carteira de Trabalho Digital ou no portal gov.br. Para dúvidas sobre o benefício e seus requisitos, utilize o telefone 158 ou as unidades regionais do Ministério do Trabalho e Emprego.",
+        "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/mte/obter-o-abono-salarial",
+        "data_verificacao": "2026-11-18"
+    },
+    {
+        "id": "TRA005",
+        "tema": "Trabalho e emprego",
+        "pergunta": "Onde encontrar cursos gratuitos de tecnologia para o trabalho?",
+        "palavras_chave": [
+            "cursos gratuitos",
+            "escola do trabalhador",
+            "qualificação digital"
+        ],
+        "orientacao": "A Escola do Trabalhador 4.0 oferece cursos gratuitos de habilidades digitais e tecnologia. Acesse a plataforma indicada na fonte, faça seu cadastro e escolha um curso para realizar a inscrição.",
+        "fonte": "https://www.gov.br/pt-br/servicos/inscrever-em-curso-do-caminho-digital",
+        "data_verificacao": "2026-11-18"
+    },
+    {
+        "id": "DIG001",
+        "tema": "Serviços digitais do governo",
+        "pergunta": "Como criar uma conta gov.br?",
+        "palavras_chave": [
+            "criar conta gov.br",
+            "cadastro gov.br",
+            "cadastrar no gov.br"
+        ],
+        "orientacao": "Acesse a página oficial indicada na fonte e siga as orientações para criar sua conta pelo site ou aplicativo gov.br. O serviço é gratuito. Preencha os dados solicitados diretamente no canal oficial.",
+        "fonte": "https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br",
+        "data_verificacao": "2026-11-18"
+    },
+    {
+        "id": "DIG002",
+        "tema": "Serviços digitais do governo",
+        "pergunta": "Como recuperar a senha da minha conta gov.br?",
+        "palavras_chave": [
+            "recuperar senha gov.br",
+            "esqueci senha gov.br",
+            "redefinir senha gov.br"
+        ],
+        "orientacao": "Na tela oficial de acesso do gov.br, informe seu CPF e escolha 'Esqueci minha senha'. Siga uma das opções de recuperação disponíveis para sua conta e cadastre uma nova senha diretamente no canal oficial.",
+        "fonte": "https://acesso.gov.br/faq/_perguntasdafaq/formarrecuperarconta.html",
+        "data_verificacao": "2026-11-18"
+    },
+    {
+        "id": "DIG003",
+        "tema": "Serviços digitais do governo",
+        "pergunta": "Como ativar a verificação em duas etapas na conta gov.br?",
+        "palavras_chave": [
+            "verificação em duas etapas gov.br",
+            "dois fatores gov.br",
+            "2fa gov.br"
+        ],
+        "orientacao": "Com conta Prata ou Ouro, entre no aplicativo gov.br. Abra 'Segurança da conta' e ative 'Verificação em duas etapas'. Deixe o relógio do celular sincronizado com a internet. Consulte também na fonte como cadastrar um e-mail de recuperação.",
+        "fonte": "https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/ativar-a-verificacao-em-duas-etapas",
+        "data_verificacao": "2026-11-18"
+    },
+    {
+        "id": "DIG004",
+        "tema": "Serviços digitais do governo",
+        "pergunta": "Como assinar um documento eletronicamente pelo gov.br?",
+        "palavras_chave": [
+            "assinar documento gov.br",
+            "assinatura eletrônica gov.br",
+            "assinatura digital gov.br"
+        ],
+        "orientacao": "Use uma conta gov.br Prata ou Ouro para acessar o serviço oficial de assinatura. Adicione o documento, siga as etapas de confirmação e baixe o arquivo assinado pela opção de download do próprio serviço.",
+        "fonte": "https://www.gov.br/governodigital/pt-br/identidade/assinatura-eletronica",
+        "data_verificacao": "2026-11-18"
+    },
+    {
+        "id": "DIG005",
+        "tema": "Serviços digitais do governo",
+        "pergunta": "Como reclamar de um serviço público federal?",
+        "palavras_chave": [
+            "reclamação serviço público",
+            "reclamar serviço federal",
+            "fala.br"
+        ],
+        "orientacao": "Registre sua reclamação sobre o serviço federal no Fala.BR, pelo acesso indicado na fonte. Essa modalidade exige cadastro e identificação. Descreva o ocorrido e guarde o protocolo para acompanhar o atendimento.",
+        "fonte": "https://www.gov.br/ouvidorias/pt-br/central-de-conteudos/perguntas-frequentes",
+        "data_verificacao": "2026-11-18"
+    }
+]

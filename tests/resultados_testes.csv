@@ -1,0 +1,15 @@
+﻿Pergunta;Esperado;Obtido;Resultado;Tempo_ms
+Como consultar meu CPF?;DOC001;DOC001;ACERTO;0.344
+Como emitir comprovante de inscrição no CPF?;DOC002;DOC002;ACERTO;0.0153
+Como consultar meu título de eleitor?;DOC003;DOC003;ACERTO;0.0124
+Como solicitar a CIN?;DOC004;DOC004;ACERTO;0.2981
+Quero tirar passaporte;DOC005;DOC005;ACERTO;0.2542
+Como acessar carteira de trabalho digital?;TRA001;TRA001;ACERTO;0.2582
+Onde procurar vagas de emprego?;TRA002;TRA002;ACERTO;0.2828
+Como solicitar seguro desemprego?;TRA003;TRA003;ACERTO;0.2558
+Como consultar abono salarial?;TRA004;TRA004;ACERTO;0.0103
+Onde encontrar cursos gratuitos?;TRA005;TRA005;ACERTO;0.2534
+Como criar conta gov.br?;DIG001;DIG001;ACERTO;0.2643
+Como recuperar minha senha gov.br?;DIG002;DIG002;ACERTO;0.3007
+Como comprar um carro?;SEM RESPOSTA;SEM RESPOSTA;ACERTO;0.2492
+;SEM RESPOSTA;SEM RESPOSTA;ACERTO;0.0043
